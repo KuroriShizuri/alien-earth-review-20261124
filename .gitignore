@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+
+# make.fun kit (competition scaffolding, not part of the entry)
+u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000-kit/
